@@ -1,4 +1,4 @@
-# VLSI-Design-Verification-and-testing
+# Verification Courses - Labs - projects
 VLSI Design Verification and testing 
 Course Labs - projects
 
