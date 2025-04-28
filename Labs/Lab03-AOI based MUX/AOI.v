@@ -1,4 +1,4 @@
-module andnor (
+module AOI (
   input wire A,B,C,D,
   output wire F);
   
