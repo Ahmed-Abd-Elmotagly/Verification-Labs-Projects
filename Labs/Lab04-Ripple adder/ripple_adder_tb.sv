@@ -1,8 +1,8 @@
-module r_adder_tb ( 
- output reg  [3:0] a_tb,b_tb,
- output reg cin_tb,
- input  wire [3:0] sum_tb,
- input wire cout_tb);
+module r_adder_tb ( );
+ reg  [3:0] a_tb,b_tb;
+ reg cin_tb;
+ wire [3:0] sum_tb;
+ wire cout_tb;
   bit [4:0] out_sum;
 add_struc adder_dut (a_tb,b_tb,cin_tb,sum_tb,cout_tb);
 
