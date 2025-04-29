@@ -7,7 +7,7 @@ module r_adder_tb ( );
 add_struc adder_dut (a_tb,b_tb,cin_tb,sum_tb,cout_tb);
 
 initial begin 
-  a_tb = 4'b1111;
+  a_tb = 4'b1111; // for a better verification inputs should be constrained  randomized 
   b_tb = 4'b1101;
   cin_tb = 1'b0;
   #1
