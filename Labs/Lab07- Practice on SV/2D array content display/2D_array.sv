@@ -1,3 +1,7 @@
+/*
+	Write a SV code to print the contents of 
+	a two dimensional array using foreach loop */
+
 module array2d ();
   parameter d1=3,d2=4;
   int array[d1][d2];
