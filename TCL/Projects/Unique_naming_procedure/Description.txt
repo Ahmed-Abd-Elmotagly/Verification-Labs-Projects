@@ -1,2 +1,2 @@
-HW circuits are usually build of many similar components and nets
+HW circuits are usually built of many similar components and nets
 Traversing those components requires that we give them unique names and maybe some properties as well
