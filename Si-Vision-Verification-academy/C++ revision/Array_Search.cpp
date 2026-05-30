@@ -1,3 +1,4 @@
+//search for item in array
 #include <iostream>
 #include <stdint.h>
 #include <string.h>
