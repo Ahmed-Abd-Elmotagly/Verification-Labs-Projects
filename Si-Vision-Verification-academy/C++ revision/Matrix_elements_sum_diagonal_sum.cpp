@@ -1,3 +1,4 @@
+// enter a matrix to store and calculate all elements sum and diagonal sum 
 #include <iostream>
 #include <stdint.h>
 #include <string.h>
